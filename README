@@ -6,7 +6,7 @@ install flameshot, vim, kitty, rofi, feh, thunar, polybar, flatpak, spotify and 
 run all afromentioned apps to generate cofig files
 replace the original config files with the respective modified ones, or simply add the config files 
 add wallpaper.jpg to ~/.resources/ and /etc/resources
-replace stock ~/.bashrc with the modified version
+replace stock ~/.bashrc with the modified version(make sure to add a dot in front of the github one's filename when replacing)
 
 (optionals)
 
