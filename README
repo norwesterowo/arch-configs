@@ -2,4 +2,15 @@
 a config repository to save me time when ricing arch linux(i3wm)
 
 ### HOWTO ###
-just copy paste whatever you want into your ~/.config directory
+install flameshot, vim, kitty, rofi, feh, thunar, polybar, flatpak, spotify and build abba23/spotify-adblock(last 2 are optional, but remove the spotify alias from .bashrc)
+run all afromentioned apps to generate cofig files
+replace the original config files with the respective modified ones, or simply add the config files 
+add wallpaper.jpg to ~/.resources/ and /etc/resources
+replace stock ~/.bashrc with the modified version
+
+(optionals)
+
+install lightdm-slick-greeter and lxappearance
+configure lightdm to use lightdm-slick-greeter, specify the background path as /etc/resources/wallpaper.jpeg
+
+### END OF FILE ###
