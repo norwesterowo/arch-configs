@@ -13,4 +13,8 @@ replace stock ~/.bashrc with the modified version
 install lightdm-slick-greeter and lxappearance
 configure lightdm to use lightdm-slick-greeter, specify the background path as /etc/resources/wallpaper.jpeg
 
+### ESSENTIAL ###
+
+import the meme folder
+
 ### END OF FILE ###
